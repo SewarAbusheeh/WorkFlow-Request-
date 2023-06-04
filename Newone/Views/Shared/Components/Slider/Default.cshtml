@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Slider>
+
+<section id="mu-slider">
+    @foreach (var item in Model)
+    {
+        <!-- Start single slider item -->
+        <div class="mu-slider-single">
+
+            <div class="mu-slider-img">
+                <figure>
+                    <img src="@Url.Content(item.SliderImg)" alt="img">
+                </figure>
+            </div>
+            <div class="mu-slider-content">
+                @*<h4></h4>
+                <span></span>*@
+                <h2>@item.STitle</h2>
+                <p>@item.SubTitle</p>
+                <a @*@Url.Content(item.BtnUrl)*@ class="mu-read-more-btn">@item.BtnText</a>
+            </div>
+            
+
+
+        </div>
+    }
+        <!-- Start single slider item -->
+        <!-- Start single slider item -->
+
+        <!-- Start single slider item -->
+    </section>

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Newone.Models.CourseLesson>
+
+@{
+    ViewData["Title"] = "Start";
+    Layout = "~/Areas/UserDashboard/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Start</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNumber)
+            </th>
+           
+
+      
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerialNumber)
+            </td>
+
+
+       
+        </tr>
+}
+    </tbody>
+</table>

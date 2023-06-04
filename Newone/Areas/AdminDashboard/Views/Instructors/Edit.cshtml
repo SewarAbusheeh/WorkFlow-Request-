@@ -1,0 +1,67 @@
+﻿@model Newone.Models.Instructor
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/AdminDashboard/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Instructor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="InstructorId" />
+            <div class="form-group">
+                <label asp-for="InstructorName" class="control-label"></label>
+                <input asp-for="InstructorName" class="form-control" />
+                <span asp-validation-for="InstructorName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InstructorImg" class="control-label"></label>
+                <input asp-for="InstructorImg" class="form-control" />
+                <span asp-validation-for="InstructorImg" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="InstructorPosition" class="control-label"></label>
+                <input asp-for="InstructorPosition" class="form-control" />
+                <span asp-validation-for="InstructorPosition" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tw" class="control-label"></label>
+                <input asp-for="Tw" class="form-control" />
+                <span asp-validation-for="Tw" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fb" class="control-label"></label>
+                <input asp-for="Fb" class="form-control" />
+                <span asp-validation-for="Fb" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreationDate" class="control-label"></label>
+                <input asp-for="CreationDate" class="form-control" />
+                <span asp-validation-for="CreationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsDeleted" /> @Html.DisplayNameFor(model => model.IsDeleted)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,28 @@
+﻿@model Newone.Models.Approve
+
+    @{
+        ViewData["Title"] = "Approve";
+        Layout = "~/Areas/AdminDashboard/Views/Shared/_AdminLayout.cshtml";
+    }
+
+    <h1>Approve</h1>
+<hr />
+<hr />
+<hr />
+
+        <div class="text-danger">
+        @if (ViewBag.err != null)
+        {
+            <h1>
+                @ViewBag.err
+
+            </h1>  
+        }
+    </div>
+
+
+
+    <div>
+        <a asp-action="Index" class="btn-btn active-secondary" asp-controller="Approves">Back to List</a>
+    </div>
+

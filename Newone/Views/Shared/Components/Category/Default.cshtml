@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Category>
+
+    <div class="col-md-3">
+        <!-- start sidebar -->
+        <aside class="mu-sidebar">
+            <!-- start single sidebar -->
+            <div class="mu-single-sidebar">
+                <h3>Categories</h3>
+                @foreach (var item in Model)
+                {
+                    <ul class="mu-sidebar-catg">
+                        <li><a asp-route-id="@item.CategoryId" asp-action="CategoryDisplay" asp-controller="Home">@item.CategoryName</a></li>
+                        @*<li><a href="">Web Development</a></li>
+                <li><a href="">Math</a></li>
+                <li><a href="">Physics</a></li>
+                <li><a href="">Camestry</a></li>
+                <li><a href="">English</a></li>*@
+                    </ul>
+                }
+
+
+
+
+            </div>
+
+        </aside>
+    </div>

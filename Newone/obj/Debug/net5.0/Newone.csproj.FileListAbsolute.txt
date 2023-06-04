@@ -1,0 +1,487 @@
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.AssemblyInfo.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\staticwebassets\Newone.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\staticwebassets\Newone.StaticWebAssets.xml
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\scopedcss\bundle\Newone.styles.css
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.TagHelpers.input.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.TagHelpers.output.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorCoreGenerate.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorTargetAssemblyInfo.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.dll
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\ref\Newone.dll
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.exe
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.deps.json
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.runtimeconfig.json
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ref\Newone.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.Views.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.Views.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.Views.pdb
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.csproj.CopyComplete
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.genruntimeconfig.cache
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.Mvc.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Admin\CreateRole.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Admin\Login.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CategoryDisplay.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CDetails.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\ComingCDetails.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\ComingCIndex1.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\send.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Article\Default.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Client\Default.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Instructor\Default.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Enroll.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestCourse\Default.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Create.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Delete.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Details.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Edit.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Approve.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\EditUser\EditProfile.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\hp\source\repos\Newone\Newone\bin\Debug\net5.0\xunit.core.dll
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\RequestByUser.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\DetailsR.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CoursesUserDetail.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CoursesForuser.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\EditUserProfile\EditUserProfile.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\Home\EditProfile.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\EPU\EPU.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\EPU\Index.cshtml.g.cs
+C:\Users\hp\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Start.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\appsettings.Development.json
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\appsettings.json
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.exe
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.deps.json
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.runtimeconfig.json
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.runtimeconfig.dev.json
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ref\Newone.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.Views.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newone.Views.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Humanizer.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.Mvc.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.Mvc.Common.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\xunit.abstractions.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\xunit.core.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.csproj.AssemblyReference.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.GeneratedMSBuildEditorConfig.editorconfig
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.AssemblyInfoInputs.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.AssemblyInfo.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.csproj.CoreCompileInputs.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.MvcApplicationPartsAssemblyInfo.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.MvcApplicationPartsAssemblyInfo.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorAssemblyInfo.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorAssemblyInfo.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\staticwebassets\Newone.StaticWebAssets.Manifest.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\staticwebassets\Newone.StaticWebAssets.xml
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\scopedcss\bundle\Newone.styles.css
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.TagHelpers.input.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.TagHelpers.output.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorCoreGenerate.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Admin\CreateRole.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Admin\Login.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Approve.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Approves\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Articles\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Categories\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\ComingCourses\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Contacts\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Home\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Instructors\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\LatestCourses\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Requesttoenrolls\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\Shared\_AdminLayout.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\_ViewImports.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\_ViewStart.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\EditUserProfile\EditUserProfile.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\EditUser\EditProfile.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\Home\EditProfile.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\Home\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\Shared\_UserLayout.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\_ViewImports.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\_ViewStart.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Create.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Delete.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Details.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Edit.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\ComingCourses\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\EPU\EPU.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\EPU\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CategoryDisplay.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CDetails.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\ComingCDetails.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\ComingCIndex1.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CoursesForuser.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\CoursesUserDetail.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\DetailsR.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Enroll.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\RequestByUser.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Search.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\send.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Home\Start.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Article\Default.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Client\Default.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Instructor\Default.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\LatestCourse\Default.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorTargetAssemblyInfo.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.RazorTargetAssemblyInfo.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.Views.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.csproj.CopyComplete
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\ref\Newone.dll
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.pdb
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Newone.genruntimeconfig.cache
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\UserDashboard\Views\CourseLessons\Start.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\UpLaoad\Upload.cshtml.g.cs
+E:\شاشه التوقف acdemy pro\source\repos\Newone\Newone\obj\Debug\net5.0\Razor\Areas\AdminDashboard\Views\UpLaoad\Index.cshtml.g.cs

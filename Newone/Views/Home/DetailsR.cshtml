@@ -1,0 +1,50 @@
+﻿@model Newone.Models.Requesttoenroll
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/UserDashboard/Views/Shared/_UserLayout.cshtml";
+}
+
+
+
+<div>
+    
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Mesage)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Mesage)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CreationT)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CreationT)
+        </dd>
+       
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LatestCourse)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LatestCourse.CName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.User.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.User.UserName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.User.UserName)
+        </dd>
+    </dl>
+</div>
+<div>
+    @*<a asp-action="Edit" asp-route-id="@Model.RequesttoenrollId" class="btn btn-info">Edit</a>*@ 
+    <a asp-action="Index" asp-controller="UserDashboard" class="btn btn-success">Back to List</a>
+</div>

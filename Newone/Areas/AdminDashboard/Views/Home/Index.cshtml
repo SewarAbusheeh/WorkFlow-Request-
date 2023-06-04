@@ -1,0 +1,73 @@
+﻿@model Newone.Models.ApplicationUser
+@using Microsoft.AspNetCore.Http;
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<ApplicationUser> _signInManager;
+@{
+
+    Layout = "~/Areas/AdminDashboard/Views/Shared/_AdminLayout.cshtml";
+
+
+
+}
+
+<div class="templatemo-flex-row flex-content-row">
+    <div class="templatemo-content-widget white-bg col-2">
+        <i class="fa fa-times"></i>
+        <div class="media margin-bottom-30">
+            <div class="media-left padding-right-25">
+                <a href="#">
+                    <img class="media-object img-circle templatemo-img-bordered" src="~/Admin/images/person.jpg" alt="Sunset">
+                </a>
+            </div>
+            <div class="media-body">
+                <h2 class="media-heading text-uppercase blue-text">@User.Identity.Name</h2>
+                <p>Admin</p>
+            </div>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <td><div class="circle green-bg"></div></td>
+                        <td>New Task Issued</td>
+                        <td>02</td>
+                    </tr>
+                    <tr>
+                        <td><div class="circle pink-bg"></div></td>
+                        <td>Task Pending</td>
+                        <td>22</td>
+                    </tr>
+                    <tr>
+                        <td><div class="circle blue-bg"></div></td>
+                        <td>Inbox</td>
+                        <td>13</td>
+                    </tr>
+                    <tr>
+                        <td><div class="circle yellow-bg"></div></td>
+                        <td>New Notification</td>
+                        <td>18</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="templatemo-content-widget white-bg col-1 text-center templatemo-position-relative">
+        <i class="fa fa-times"></i>
+        <img src="~/Admin/images/person.jpg" alt="Bicycle" class="img-circle img-thumbnail margin-bottom-30">
+        <h2 class="text-uppercase blue-text margin-bottom-5">@User.Identity.Name</h2>
+        <h3 class="text-uppercase margin-bottom-70">Admin</h3>
+        <div class="templatemo-social-icons-container">
+            <div class="social-icon-wrap">
+                <i class="fa fa-facebook templatemo-social-icon"></i>
+            </div>
+            <div class="social-icon-wrap">
+                <i class="fa fa-twitter templatemo-social-icon"></i>
+            </div>
+            <div class="social-icon-wrap">
+                <i class="fa fa-google-plus templatemo-social-icon"></i>
+            </div>
+        </div>
+    </div>
+
+</div>
+

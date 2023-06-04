@@ -1,0 +1,60 @@
+﻿@model IEnumerable<LatestCourse>
+
+<div>
+    <section id="mu-latest-courses">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="mu-latest-courses-area">
+                        <!-- Start Title -->
+                        <div class="mu-title">
+                            <h2>Latest Courses</h2>
+                            <p></p>
+                        </div>
+                        <!-- End Title -->
+                        <!-- Start latest course content -->
+
+                        <div id="mu-latest-course-slide" class="mu-latest-courses-content">
+                            @foreach (var item in Model)
+                            {
+                                <div class="col-lg-4 col-md-4 col-xs-10">
+
+                                    <div class="mu-latest-course-single">
+
+                                        <figure class="mu-latest-course-img">
+                                            <a href="#"><img src="@Url.Content(item.CourseImg)" alt="img"></a>
+                                            <figcaption class="mu-latest-course-imgcaption">
+                                                <a>@item.CName</a>
+                                                <span><i class="fa fa-clock-o"></i>@item.Hours</span>
+                                            </figcaption>
+                                        </figure>
+                                        <div class="mu-latest-course-single-content">
+                                            <h4><a>@item.CourseDesc</a></h4>
+                                            @*<p>@item.CourseDesc</p>*@
+                                            <div class="mu-latest-course-single-contbottom">
+                                                <a class="mu-course-details" asp-action="Cdetails" asp-route-id="@item.LatestCourseId">Details</a>
+                                                <span class="mu-course-price" href="#">@item.Price $</span>
+                                            </div>
+                                        </div>
+
+
+
+                                    </div>
+
+                                </div>
+                            }
+                        </div>
+
+                        <!-- End latest course content -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</div>
+  
+
+
+

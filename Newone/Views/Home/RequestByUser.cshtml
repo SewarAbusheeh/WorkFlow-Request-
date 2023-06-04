@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Newone.Models.Requesttoenroll>
+
+@{
+    ViewData["Title"] = "RequestByUser";
+    Layout = "~/Areas/UserDashboard/Views/Shared/_UserLayout.cshtml";
+}
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Mesage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreationT)
+            </th>
+     
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mesage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreationT)
+            </td>
+      
+            <td>
+                @*<a asp-action="Edit" asp-route-id="@item.RequesttoenrollId">Edit</a> |*@
+                <a asp-action="DetailsR" asp-route-id="@item.RequesttoenrollId">Details</a> 
+                @*<a asp-action="Delete" asp-route-id="@item.RequesttoenrollId">Delete</a>*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Client>
+<section id="mu-testimonial">
+    <div class="container">
+        <div class="row">
+           
+            <div class="col-md-12">
+             
+                    <div class="mu-testimonial-area">
+
+                        <!-- start testimonial single item -->
+
+                        <div id="mu-testimonial-slide" class="mu-testimonial-content">
+                            @foreach (var item in Model)
+                            {
+                                <div class="mu-testimonial-item">
+                                    <div class="mu-testimonial-quote">
+                                        <blockquote>
+                                            <p>@item.Comment</p>
+                                        </blockquote>
+                                    </div>
+                                    <div class="mu-testimonial-img">
+                                        <img src="~/LayoutF/assets/img/in5.jpg" alt="img" >
+                                    </div>
+                                    <div class="mu-testimonial-info">
+                                        <h4>@item.CName</h4>
+                                        <span>Happy Student</span>
+                                    </div>
+                                </div>
+                            }
+                                <!-- end testimonial single item -->
+                                <!-- start testimonial single item -->
+                                <!-- end testimonial single item -->
+                         </div>
+
+
+                    </div>
+
+             </div>
+            
+
+         </div>
+    </div>
+</section>
+

@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Newone.Models.Requesttoenroll>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminDashboard/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+
+<hr />
+
+
+
+
+<div class="row">
+    <div class="col-11">
+
+
+        @foreach (var item in Model)
+        {
+
+
+            <div class="card" style="width: 50rem; border:3px solid Black;">
+                <div class="card-body">
+                    <h5 class="card-title">UserEmail : @item.User.Email</h5>
+
+                    <p class="card-text">Message :@item.Mesage</p>
+                    <p class="card-text">CourseName :@item.LatestCourse.CName</p>
+                    <a asp-action="Delete" asp-route-id="@item.RequesttoenrollId" class="btn btn-danger">Delete</a>
+                    <a asp-action="Details" asp-route-id="@item.RequesttoenrollId" class="btn btn-primary">Details</a>
+                    <a asp-action="Approve" asp-route-id="@item.RequesttoenrollId" asp-controller="Approves" class="btn btn-success">Approve</a>
+                    @*<a asp-action="Edit" asp-route-id="@item.RequesttoenrollId" class="btn btn-warning">Edit</a>*@
+
+                </div>
+            </div>
+
+        }
+
+    </div>
+</div>
+
+

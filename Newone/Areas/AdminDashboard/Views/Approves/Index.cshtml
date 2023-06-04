@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Newone.Models.Approve>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminDashboard/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+    
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CreationT)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LatestCourse)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreationT)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.User.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LatestCourse.CName)
+                </td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@item.ApproveId">Edit</a> |
+                    <a asp-action="Details" class="btn btn-default" asp-route-id="@item.ApproveId">Details</a> |
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@item.ApproveId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

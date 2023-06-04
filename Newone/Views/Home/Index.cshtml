@@ -1,0 +1,54 @@
+﻿
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section id="mu-about-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mu-about-us-area">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6">
+                            <div class="mu-about-us-left">
+                                @*Start Title*@
+                                <div class="mu-title">
+                                    <h2>About Us</h2>
+                                </div>
+                                @*End Title*@
+                                <p> For IT companies that want to expand their team members efficiently in Jordan,   For we provide services not only office space and employees,</p>
+
+                                <ul>
+                                    <li> in fact, we help all the way from the technical consultancy.</li>
+                                    <li>administrative services, managing finances and legal services</li>
+                                    <li> as well as other supportive services that are available per request</li>
+
+                                </ul>
+                                <p>Our goal is to enable you to expand your team and lower your expenses while maintaining the quality of your business.</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6">
+                            <div class="mu-about-us-right">
+
+                                <a id="mu-abtus-video" href="https://www.youtube.com/embed/HN3pm9qYAUs" target="mutube-video">
+
+
+                                    <img src="~/LayoutF/assets/img/B.jpeg" alt="imghj">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@await Component.InvokeAsync("LatestCourse")
+@await Component.InvokeAsync("Instructor")
+@await Component.InvokeAsync("Client")
+
+@await Component.InvokeAsync("Article")
